@@ -28,7 +28,7 @@
         "showtime": "08:00PM",
         "tickets_sold": 32,
         "description": "Aliens resurrect dead humans as zombies and vampires to stop humanity from creating a doomsday weapon.",
-        "poster": "https://www.gstatic.com/tv/thumb/v22vodart/13452/p13452_v_v8_ab.jpg"
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Plan_9_Alternative_poster.jpg"
       },
       {
         "id": "4",
@@ -38,7 +38,7 @@
         "showtime": "10:00PM",
         "tickets_sold": 20,
         "description": "Martians kidnap Santa Claus because there is nobody on Mars to give their children presents.",
-        "poster": "https://www.gstatic.com/tv/thumb/v22vodart/82414/p82414_v_v8_ab.jpg"
+        "poster": "https://kinolorber.com/media_cache/userFiles/uploads/products/santa-claus-conquers-the-martians/full/product_1705.jpg"
       },
       {
         "id": "5",
@@ -52,5 +52,6 @@
       }
     ]
   }
+  
   
   
