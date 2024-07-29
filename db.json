@@ -1,0 +1,56 @@
+{
+    "films": [
+      {
+        "id": "1",
+        "title": "The Giant Gila Monster",
+        "runtime": "108",
+        "capacity": 30,
+        "showtime": "04:00PM",
+        "tickets_sold": 27,
+        "description": "A giant lizard terrorizes a rural Texas community and a heroic teenager attempts to destroy the creature.",
+        "poster": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg"
+      },
+      {
+        "id": "2",
+        "title": "Manos: The Hands Of Fate",
+        "runtime": "118",
+        "capacity": 50,
+        "showtime": "06:45PM",
+        "tickets_sold": 44,
+        "description": "A family gets lost on the road and stumbles upon a hidden, underground, devil-worshiping cult led by the fearsome Master and his servant Torgo.",
+        "poster": "https://www.gstatic.com/tv/thumb/v22vodart/47781/p47781_v_v8_ac.jpg"
+      },
+      {
+        "id": "3",
+        "title": "Plan 9 from Outer Space",
+        "runtime": "79",
+        "capacity": 40,
+        "showtime": "08:00PM",
+        "tickets_sold": 32,
+        "description": "Aliens resurrect dead humans as zombies and vampires to stop humanity from creating a doomsday weapon.",
+        "poster": "https://www.gstatic.com/tv/thumb/v22vodart/13452/p13452_v_v8_ab.jpg"
+      },
+      {
+        "id": "4",
+        "title": "Santa Claus Conquers the Martians",
+        "runtime": "81",
+        "capacity": 25,
+        "showtime": "10:00PM",
+        "tickets_sold": 20,
+        "description": "Martians kidnap Santa Claus because there is nobody on Mars to give their children presents.",
+        "poster": "https://www.gstatic.com/tv/thumb/v22vodart/82414/p82414_v_v8_ab.jpg"
+      },
+      {
+        "id": "5",
+        "title": "Robot Monster",
+        "runtime": "66",
+        "capacity": 35,
+        "showtime": "11:45PM",
+        "tickets_sold": 33,
+        "description": "A robot monster (with the body of a gorilla and the head of a fishbowl) has killed all but six people on Earth.",
+        "poster": "https://www.gstatic.com/tv/thumb/v22vodart/2979/p2979_v_v8_ab.jpg"
+      }
+    ]
+  }
+  
+  
